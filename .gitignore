@@ -2,3 +2,4 @@
 *.png
 *.graphml
 *.gml
+*.lock

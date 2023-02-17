@@ -2,9 +2,11 @@
 ## The purpose of the repository
 - Implement the network models and functions described in the textbook using Python.
 ### Textbook
-[Network Science / Albert-László Barabási](http://networksciencebook.com/) 
+<!-- [Network Science / Albert-László Barabási](http://networksciencebook.com/) -->
+[Barabási,A.-L. Network science (Cambridge University Press, 2016).](http://networksciencebook.com/) 
 
-### 参考文献
+
+### Reference
 #### `03-random-networks`
 - 一ノ瀬元喜. 「NetworkXによるネットワーク分析」, https://sites.google.com/site/igenki/youtube?authuser=0, （参照 2022/07/10）
 - 橋本洋志, 牧野浩二. 『Pythonコンピュータシミュレーション入門：人文・自然・社会科学の数理モデル』. オーム社, 2021年
